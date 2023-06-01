@@ -12,9 +12,9 @@ session_requests = requests.session()
 
 #CREATE DICTIONARY FOR THE LOGIN INFORMATION
 payload = {
-	"username" :  "clementacole75@gmail.com",
-	"pass" :  "Starwatz1!",
-	"csrfmiddlewaretoken": "CSRF_TOKEN"
+	"username" :  "xxxxxxxx",
+	"pass" :  "xxxxxxx",
+	"csrfmiddlewaretoken": "xxxxxx"
 }
 
 
